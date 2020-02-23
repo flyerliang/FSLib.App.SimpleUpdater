@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Updater_AssemblyNotMarkedAsUpdateable" xml:space="preserve">
     <value>程序集未标记为可更新，无法确定更新地址</value>
@@ -153,7 +153,7 @@
     <value>错误</value>
   </data>
   <data name="Updater_UnableToCheckUpdate" xml:space="preserve">
-    <value>无法检查更新，错误：{0}</value>
+    <value>无法启动系统，错误：{0}</value>
   </data>
   <data name="UpdatesFound_CriticalUpdateWarning" xml:space="preserve">
     <value>当前更新是关键更新，如果不安装此更新，软件将无法继续运行。

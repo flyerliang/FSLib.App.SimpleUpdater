@@ -11,7 +11,9 @@
 		<RootNamespace>FSLib.App.SimpleUpdater</RootNamespace>
 		<AssemblyName>SimpleUpdater</AssemblyName>
 		<SignAssembly>true</SignAssembly>
-		<TargetFrameworks>net20;net35;net40;net45</TargetFrameworks>
+		<TargetFrameworks>net40;</TargetFrameworks>
+<TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+<TargetFrameworkProfile />
 		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
 		<EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
 	</PropertyGroup>
